@@ -1,0 +1,199 @@
+body{
+    margin: 0;
+}
+.top-container{
+    margin:0;
+    width: auto;
+    height: auto;
+    background-color: #EAF6F6;
+}
+.top-cloud{
+    position: absolute;
+    margin: 2% 0 0 65%;
+    width: 10%;
+}
+.main-heading{
+    margin: 12% 0 0 37%;
+    position: absolute;
+    font-size: 4.5rem;
+    font-family: 'Dancing Script', cursive;
+    line-height: 2%;
+    color: #66BFBF;
+}
+.heading-caption{
+    margin: 18% 0 0 39%;
+    position: absolute;
+    font-size: 2rem;
+    color: #66BFBF;
+    font-family: poppins;
+}
+.pro{
+    text-decoration: underline;
+}
+.bottom-cloud{
+    position: absolute;
+    margin:22% 0 0 15%;
+}
+.mountain-image{
+    margin:25% 0 0 32%;
+    width: 35%;
+}
+.middle-container{
+    width: auto;
+    height: auto;
+    background-color: white;
+}
+.shyam-profile{
+    width: 12%;
+    margin:4% 0 0 42% ;   
+}
+.h2{
+    margin:2% 0 0 44% ;
+    color: #66BFBF;
+    position: absolute;
+    font-size: 2rem;
+    font-family:'Times New Roman', Times, serif;
+}
+.myself{
+    margin:8% 0 0 37% ;
+    width: 30%;
+    color: #40514E;
+}
+.hr{
+    margin:9% 0 0 44.5% ;
+    width: 6%;
+    border-style: dotted none none none;
+    border-width: 6px;
+    border-color:#e2e9e9;
+}
+.skills{
+    width: 50%;
+    height: auto;
+    margin: 2% 0 0 25%;
+    text-align: center;
+   
+}
+.skill-heading{
+    margin: 5% 10% 0 0;
+    font-family:'Times New Roman', Times, serif; 
+    color: #66BFBF; 
+}
+.sec-one{
+   width: auto;
+   height: auto;
+   margin: 15% 10% 0 0 ;
+   color: #66BFBF;
+   font-size: 0.90rem;
+  
+}
+
+.design-img{
+    width: 20%;
+    margin-left: 2%;
+    padding-right: 2%;
+    float: left;
+    
+}
+.design-description{
+    color: #40514E;
+    margin-top: 1%;
+}
+.sec-two{
+    width: auto;
+    height: auto;
+    margin: 15% 10% 0 0;
+    color: #66BFBF;
+    font-size: 0.90rem;
+}
+.java-img{
+    width: 20%;
+    margin: 6% 0 0 2%;
+    padding-left: 2%;
+    float: right;
+    border-radius: 50%;
+}
+.java-description{
+    color: #40514E;
+    margin-top: 1%; 
+}
+.skill-hr{
+    margin:9% 0 0 39.5% ;
+    width: 12%;
+    border-style: dotted none none none;
+    border-width: 6px;
+    border-color:#e2e9e9;   
+}
+.sec-three{
+    width: auto;
+    height: auto;
+    margin: 15% 10% 0 0;
+    color: #66BFBF;
+    font-size: 0.90rem;
+}
+.get-in-touch{
+    font-size: 2rem;
+}
+.git{
+    color: #40514E;  
+}
+
+.BUTTON_SDV {
+    margin: 8% 0 18% 0;
+    background:  #66BFBF;
+    background-image: -webkit-linear-gradient(top,  #66BFBF, #66BFBF);
+    background-image: -moz-linear-gradient(top, #66BFBF, #66BFBF);
+    background-image: -ms-linear-gradient(top, #66BFBF, #66BFBF);
+    background-image: -o-linear-gradient(top, #66BFBF, #66BFBF);
+    background-image: -webkit-gradient(to bottom, #66BFBF, #66BFBF);
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 15px;
+    height: auto;
+    color: #FFFFFF;
+    font-family: Helvetica;
+    width: auto;
+    font-size: 22px;
+    font-weight: 100;
+    padding: 12px;
+    -webkit-box-shadow: 1px 1px 20px 0 #000000;
+    -moz-box-shadow: 1px 1px 20px 0 #000000;
+    box-shadow: 1px 1px 20px 0 #000000;
+    text-shadow: 1px 1px 20px #000000;
+    border: solid #66BFBF 1px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+ }
+ .BUTTON_SDV:hover {
+    border: solid #0059A0 1px;
+    background: #1E62D0;
+    background-image: -webkit-linear-gradient(top, #1E62D0, #3D94F6);
+    background-image: -moz-linear-gradient(top, #1E62D0, #3D94F6);
+    background-image: -ms-linear-gradient(top, #1E62D0, #3D94F6);
+    background-image: -o-linear-gradient(top, #1E62D0, #3D94F6);
+    background-image: -webkit-gradient(to bottom, #1E62D0, #3D94F6);
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    text-decoration: none;
+ }
+ .footer{
+    background-color: #66BFBF;
+    width: 100%;
+    height: 180px;
+    line-height: 200%;
+}
+.links{
+    margin: 0 0 8% 38%;
+    padding: 2%;
+    word-spacing: 20px;
+    color:#3D94F6;
+}
+a:link {
+    text-decoration: none;
+  } 
+.caption{
+    word-spacing: normal;
+    color: white;
+}
